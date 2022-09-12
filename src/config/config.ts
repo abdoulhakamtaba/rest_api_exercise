@@ -10,7 +10,7 @@ export const config = {
     "aws_media_bucket": "tabaudacitydev-s3"
   },
   "jwt": {
-    "secret": " "
+    "secret": "helloworld"
   },
   "prod": {
     "username": "",
